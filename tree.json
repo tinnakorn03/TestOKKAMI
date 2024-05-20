@@ -1,0 +1,27 @@
+{
+    "id": 1,
+    "tag": "lobby",
+    "data": { "title": "Main Lobby" },
+    "children": [
+      {
+        "id": 2,
+        "tag": "request_action",
+        "data": { "title": "Fix it" },
+        "children": [
+          {
+            "id": 3,
+            "tag": "",
+            "data": { "title": "Light" },
+            "children": []
+          },
+          {
+            "id": 4,
+            "tag": "",
+            "data": { "title": "Fan" },
+            "children": []
+          }
+        ]
+      }
+    ]
+}
+  
